@@ -45,3 +45,4 @@
 44	Update line 44	Reklam harcamaları ve pazarlama bütçeleri
 45	Update line 45	Kültür ve sanat ekonomisi, etkinlik gelirleri
 46	Update line 46	Yazılım geliştirme ve IT hizmetleri pazarı
+47	Update line 47	Konsültasyon hizmetleri ve iş danışmanlığı
