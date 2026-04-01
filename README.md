@@ -20,3 +20,4 @@
 19	Update line 19	Lojistik ve tedarik zinciri optimizasyonu
 20	Update line 20	İnsan kaynağı krizeminin çözümü
 21	Siber güvenlik yatırımları ve veri koruma masrafları
+22	Update line 22	E-ticaret büyümesi ve retail transformasyonu
