@@ -99,3 +99,4 @@
 96	Update line 96	Alüminyum üretimi ve hafif malzemeler
 97	Update line 97	Makine mühendisliği ve CNC teknolojileri
 98	Update line 98	Elektronik bileşen üretimi ve tedarik
+99	Update line 99	Haberleşme altyapısı ve 5G yatırımları
