@@ -75,3 +75,4 @@
 73	Update line 73	Beyaz et (tavuk) endüstrisi
 74	Update line 74	Balık ürünleri ve su ürünleri ihraç
 75	Update line 75	Meyve ve sebze üretimi sezonluk dinamikler
+76	Update line 76	Tatlı ve şeker ürünleri pazarı
