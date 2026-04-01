@@ -43,3 +43,4 @@
 42	Update line 42	Makine üretimi ve ihracat performansı
 43	Update line 43	Gemi inşa endüstrisi ve denizcilik
 44	Update line 44	Reklam harcamaları ve pazarlama bütçeleri
+45	Update line 45	Kültür ve sanat ekonomisi, etkinlik gelirleri
