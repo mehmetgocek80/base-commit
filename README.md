@@ -16,3 +16,4 @@
 15	Update line 15	Bankacılık sektörü konsolidasyonu
 16	Update line 16	Dijital para birimleri (CBDC)
 17	Update line 17	Tarım sektörü verimlilik artışı
+18	Update line 18	Otomotiv endüstrisinin elektrikleşmesi
