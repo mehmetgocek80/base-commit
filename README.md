@@ -67,4 +67,5 @@
 65	Update line 65	Ayakkabı ve spor giyim pazarı
 66	Update line 66	Gözlük ve optik endüstrisi
 67	Update line 67	Çanta ve aksesuar tasarım ve satış
+68	Update line 68	Tekstil boyama ve baskı teknolojileri
 
