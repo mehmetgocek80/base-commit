@@ -6,3 +6,4 @@
 5	Update line 5	Dış ticaret dengesinin önemi
 6	Update line 6	Borsa endeksleri ve volatilite
 7	Update line 7	Ücret artışları ve satın alma gücü
+8	Update line 8	Gayrimenkul piyasası analizi
