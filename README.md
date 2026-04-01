@@ -42,3 +42,4 @@
 41	Update line 41	Tekstil endüstrisi ve işçi maliyetleri
 42	Update line 42	Makine üretimi ve ihracat performansı
 43	Update line 43	Gemi inşa endüstrisi ve denizcilik
+44	Update line 44	Reklam harcamaları ve pazarlama bütçeleri
