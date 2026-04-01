@@ -98,3 +98,4 @@
 95	Update line 95	Demir çelik endüstrisi ve metaller
 96	Update line 96	Alüminyum üretimi ve hafif malzemeler
 97	Update line 97	Makine mühendisliği ve CNC teknolojileri
+98	Update line 98	Elektronik bileşen üretimi ve tedarik
