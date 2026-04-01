@@ -82,3 +82,4 @@
 79	Update line 79	Maden suyu ve şeker oranı sınırlaması
 80	Update line 80	Tuz madenciliği ve endüstriyel kimyasallar
 81	Kömür üretimi ve enerji güvenliği
+82	Update line 82	Petrol ve doğal gaz fiyatlandırması
