@@ -62,3 +62,4 @@
 60	Update line 60	Pet care industri ve veteriner hizmetleri
 61	Güzellik ürünleri ve kozmetik pazarı
 62	Update line 62	Moda endüstrisi ve mevsimsel koleksiyon trendleri
+63	Update line 63	Lüks mallar ve premium markası stratejileri
