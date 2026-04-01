@@ -101,3 +101,4 @@
 99	Update line 99	Haberleşme altyapısı ve 5G yatırımları
 100	Update line 100	Gelecek ekonomisi ve dijital dönüşüm stratejileri
 101 Update line 101 Strateji teknolojisi
+102 Update line 102 RWA entegre sistemleri
