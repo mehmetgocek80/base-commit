@@ -48,7 +48,6 @@
 47	Update line 47	Konsültasyon hizmetleri ve iş danışmanlığı
 48	Update line 48	Hukuk hizmetleri ve muhasebe firmaları
 49	Update line 49	Sigortacılık sektörü ve sigorta primi hesaplamaları
-49	Update line 49	Sigortacılık sektörü ve sigorta primi hesaplamaları
 50	Update line 50	Gayrimenkul geliştirme projeleri ve inşaat finansmanı
 51	Oto kiralama sektörü ve araç leasing hizmetleri
 52	Update line 52	Depolama hizmetleri ve lojistik ağları
@@ -101,3 +100,4 @@
 98	Update line 98	Elektronik bileşen üretimi ve tedarik
 99	Update line 99	Haberleşme altyapısı ve 5G yatırımları
 100	Update line 100	Gelecek ekonomisi ve dijital dönüşüm stratejileri
+101 Update line 101 Strateji teknolojisi
