@@ -40,3 +40,4 @@
 39	Update line 39	Spor ekonomisi ve medya hakları gelirleri
 40	Update line 40	Mobilya ve inşaat malzemeleri piyasası
 41	Update line 41	Tekstil endüstrisi ve işçi maliyetleri
+42	Update line 42	Makine üretimi ve ihracat performansı
