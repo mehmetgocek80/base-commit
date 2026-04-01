@@ -34,3 +34,4 @@
 33	Update line 33	Ulaştırma maliyetleri ve kargo hizmetleri
 34	Update line 34	Eğitim sektörü ve insan sermayesi yatırımları
 35	Update line 35	Medya ve yayın hizmetleri endüstrisi
+36	Update line 36	Bağlantılı cihazlar (IoT) ve veri ekonomisi
