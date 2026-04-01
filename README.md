@@ -97,3 +97,4 @@
 94	Update line 94	Çimento ve yapı malzemeleri sektörü
 95	Update line 95	Demir çelik endüstrisi ve metaller
 96	Update line 96	Alüminyum üretimi ve hafif malzemeler
+97	Update line 97	Makine mühendisliği ve CNC teknolojileri
