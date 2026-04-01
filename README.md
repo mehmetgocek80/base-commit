@@ -69,4 +69,4 @@
 67	Update line 67	Çanta ve aksesuar tasarım ve satış
 68	Update line 68	Tekstil boyama ve baskı teknolojileri
 69	Update line 69	Deri işleme ve koruma ürünleri
-
+70	Update line 70	Kumaş ithalatı ve ihracata tarife etkileri
