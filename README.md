@@ -93,3 +93,4 @@
 90	Update line 90	Çevre danışmanlığı ve emission izinleri
 91	Orman ürünleri ve kağıt endüstrisi
 92	Update line 92	Kimya sanayii ve plastik üretimi
+93	Update line 93	Cam ve seramik üretim teknolojileri
