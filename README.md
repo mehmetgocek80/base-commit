@@ -38,3 +38,4 @@
 37	Update line 37	Savunma sektörü ve askeri harcamalar
 38	Update line 38	Kimyasal endüstri ve ham madde fiyatları
 39	Update line 39	Spor ekonomisi ve medya hakları gelirleri
+40	Update line 40	Mobilya ve inşaat malzemeleri piyasası
