@@ -60,3 +60,4 @@
 58	Update line 58	Oyun endüstrisi ve e-sports gelir kaynakları
 59	Update line 59	Fitness ve sağlık spor merkezi hizmetleri
 60	Update line 60	Pet care industri ve veteriner hizmetleri
+61	Güzellik ürünleri ve kozmetik pazarı
