@@ -13,3 +13,4 @@
 12	Update line 12	Yapay zeka ekonomisinin rise'ı
 13	Update line 13	Yeşil enerji yatırımları
 14	Update line 14	Turizm sektörü toparlanması
+15	Update line 15	Bankacılık sektörü konsolidasyonu
