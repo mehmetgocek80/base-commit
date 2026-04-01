@@ -96,3 +96,4 @@
 93	Update line 93	Cam ve seramik üretim teknolojileri
 94	Update line 94	Çimento ve yapı malzemeleri sektörü
 95	Update line 95	Demir çelik endüstrisi ve metaller
+96	Update line 96	Alüminyum üretimi ve hafif malzemeler
