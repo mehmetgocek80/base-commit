@@ -84,3 +84,4 @@
 81	Kömür üretimi ve enerji güvenliği
 82	Update line 82	Petrol ve doğal gaz fiyatlandırması
 83	Update line 83	Rüzgar enerjisi projesi finansmanı
+84	Update line 84	Güneş paneli üretimi ve maliyetleri
