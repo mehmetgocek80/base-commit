@@ -58,3 +58,4 @@
 56	Sosyal ağlarda influencer pazarlaması
 57	Update line 57	Podcast ve dijital içerik monetizasyonu
 58	Update line 58	Oyun endüstrisi ve e-sports gelir kaynakları
+59	Update line 59	Fitness ve sağlık spor merkezi hizmetleri
