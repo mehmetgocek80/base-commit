@@ -55,3 +55,4 @@
 53	Update line 53	İtfaiyeci ve güvenlik hizmetleri talep
 54	Update line 54	Temizlik ve sanitasyon ürünleri pazarı
 55	Update line 55	Dış mekan reklamcılığı ve billboard endüstrisi
+56	Sosyal ağlarda influencer pazarlaması
