@@ -57,3 +57,4 @@
 55	Update line 55	Dış mekan reklamcılığı ve billboard endüstrisi
 56	Sosyal ağlarda influencer pazarlaması
 57	Update line 57	Podcast ve dijital içerik monetizasyonu
+58	Update line 58	Oyun endüstrisi ve e-sports gelir kaynakları
