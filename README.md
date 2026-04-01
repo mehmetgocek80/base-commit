@@ -9,3 +9,4 @@
 8	Update line 8	Gayrimenkul piyasası analizi
 9	Update line 9	Enerji fiyatlarının etkisi
 10	Update line 10	Küresel ticaret savaşları
+11	Update line 11	Teknoloji şirketlerinin değerlemesi
