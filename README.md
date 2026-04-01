@@ -74,3 +74,4 @@
 72	Update line 72	Kırmızı et üretim sektörü
 73	Update line 73	Beyaz et (tavuk) endüstrisi
 74	Update line 74	Balık ürünleri ve su ürünleri ihraç
+75	Update line 75	Meyve ve sebze üretimi sezonluk dinamikler
