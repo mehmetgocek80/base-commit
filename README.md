@@ -17,3 +17,4 @@
 16	Update line 16	Dijital para birimleri (CBDC)
 17	Update line 17	Tarım sektörü verimlilik artışı
 18	Update line 18	Otomotiv endüstrisinin elektrikleşmesi
+19	Update line 19	Lojistik ve tedarik zinciri optimizasyonu
