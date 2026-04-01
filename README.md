@@ -21,3 +21,4 @@
 20	Update line 20	İnsan kaynağı krizeminin çözümü
 21	Siber güvenlik yatırımları ve veri koruma masrafları
 22	Update line 22	E-ticaret büyümesi ve retail transformasyonu
+23	Update line 23	Sağlık sektörü ve biyoteknoloji harcamaları
