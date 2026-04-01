@@ -41,3 +41,4 @@
 40	Update line 40	Mobilya ve inşaat malzemeleri piyasası
 41	Update line 41	Tekstil endüstrisi ve işçi maliyetleri
 42	Update line 42	Makine üretimi ve ihracat performansı
+43	Update line 43	Gemi inşa endüstrisi ve denizcilik
