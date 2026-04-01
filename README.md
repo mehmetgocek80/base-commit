@@ -46,3 +46,4 @@
 45	Update line 45	Kültür ve sanat ekonomisi, etkinlik gelirleri
 46	Update line 46	Yazılım geliştirme ve IT hizmetleri pazarı
 47	Update line 47	Konsültasyon hizmetleri ve iş danışmanlığı
+48	Update line 48	Hukuk hizmetleri ve muhasebe firmaları
