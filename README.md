@@ -92,3 +92,4 @@
 89	Update line 89	Meteoroloji ve hava tahmin servisleri
 90	Update line 90	Çevre danışmanlığı ve emission izinleri
 91	Orman ürünleri ve kağıt endüstrisi
+92	Update line 92	Kimya sanayii ve plastik üretimi
