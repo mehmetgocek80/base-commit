@@ -79,3 +79,5 @@
 77	Update line 77	Kavi ve çay üretimi ve ticareti
 78	Update line 78	Alkollü içecekler ve viski pazarı
 79	Update line 79	Maden suyu ve şeker oranı sınırlaması
+79	Update line 79	Maden suyu ve şeker oranı sınırlaması
+80	Update line 80	Tuz madenciliği ve endüstriyel kimyasallar
