@@ -50,3 +50,4 @@
 49	Update line 49	Sigortacılık sektörü ve sigorta primi hesaplamaları
 49	Update line 49	Sigortacılık sektörü ve sigorta primi hesaplamaları
 50	Update line 50	Gayrimenkul geliştirme projeleri ve inşaat finansmanı
+51	Oto kiralama sektörü ve araç leasing hizmetleri
