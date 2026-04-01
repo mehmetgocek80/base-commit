@@ -14,3 +14,4 @@
 13	Update line 13	Yeşil enerji yatırımları
 14	Update line 14	Turizm sektörü toparlanması
 15	Update line 15	Bankacılık sektörü konsolidasyonu
+16	Update line 16	Dijital para birimleri (CBDC)
