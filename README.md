@@ -64,3 +64,4 @@
 62	Update line 62	Moda endüstrisi ve mevsimsel koleksiyon trendleri
 63	Update line 63	Lüks mallar ve premium markası stratejileri
 64	Update line 64	Saatler ve kıymetli taş endüstrisi
+65	Update line 65	Ayakkabı ve spor giyim pazarı
