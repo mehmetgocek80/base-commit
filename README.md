@@ -24,3 +24,4 @@
 23	Update line 23	Sağlık sektörü ve biyoteknoloji harcamaları
 24	Update line 24	Fintech şirketleri ve geleneksel bankaların dönüşümü
 25	Update line 25	Sosyal medya platformlarının reklam gelir modeli
+26	Update line 26	Gıda üretim maliyetleri ve tarım girdilerinin fiyatı
