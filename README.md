@@ -29,3 +29,4 @@
 28	Update line 28	Ulusal borç seviyeleri ve bütçe açıkları
 29	Update line 29	Yatırım fonu ve ETF pazarının genişlemesi
 30	Update line 30	Perakende sektörü ve tüketici harcama trendleri
+31	Update line 31	İmalat sektörü ve endüstri 4.0 teknolojileri
