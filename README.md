@@ -56,3 +56,4 @@
 54	Update line 54	Temizlik ve sanitasyon ürünleri pazarı
 55	Update line 55	Dış mekan reklamcılığı ve billboard endüstrisi
 56	Sosyal ağlarda influencer pazarlaması
+57	Update line 57	Podcast ve dijital içerik monetizasyonu
