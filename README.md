@@ -77,3 +77,4 @@
 75	Update line 75	Meyve ve sebze üretimi sezonluk dinamikler
 76	Update line 76	Tatlı ve şeker ürünleri pazarı
 77	Update line 77	Kavi ve çay üretimi ve ticareti
+78	Update line 78	Alkollü içecekler ve viski pazarı
