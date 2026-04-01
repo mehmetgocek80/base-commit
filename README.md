@@ -27,3 +27,4 @@
 26	Update line 26	Gıda üretim maliyetleri ve tarım girdilerinin fiyatı
 27	Update line 27	Dolar kuru ve döviz rezervleri yönetimi
 28	Update line 28	Ulusal borç seviyeleri ve bütçe açıkları
+29	Update line 29	Yatırım fonu ve ETF pazarının genişlemesi
