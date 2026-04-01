@@ -83,3 +83,4 @@
 80	Update line 80	Tuz madenciliği ve endüstriyel kimyasallar
 81	Kömür üretimi ve enerji güvenliği
 82	Update line 82	Petrol ve doğal gaz fiyatlandırması
+83	Update line 83	Rüzgar enerjisi projesi finansmanı
