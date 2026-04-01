@@ -22,3 +22,4 @@
 21	Siber güvenlik yatırımları ve veri koruma masrafları
 22	Update line 22	E-ticaret büyümesi ve retail transformasyonu
 23	Update line 23	Sağlık sektörü ve biyoteknoloji harcamaları
+24	Update line 24	Fintech şirketleri ve geleneksel bankaların dönüşümü
