@@ -71,3 +71,4 @@
 69	Update line 69	Deri işleme ve koruma ürünleri
 70	Update line 70	Kumaş ithalatı ve ihracata tarife etkileri
 71	Süt ürünleri üretimi ve pazarlaması
+72	Update line 72	Kırmızı et üretim sektörü
