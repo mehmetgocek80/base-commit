@@ -36,3 +36,4 @@
 35	Update line 35	Medya ve yayın hizmetleri endüstrisi
 36	Update line 36	Bağlantılı cihazlar (IoT) ve veri ekonomisi
 37	Update line 37	Savunma sektörü ve askeri harcamalar
+38	Update line 38	Kimyasal endüstri ve ham madde fiyatları
