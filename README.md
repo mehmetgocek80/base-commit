@@ -15,3 +15,4 @@
 14	Update line 14	Turizm sektörü toparlanması
 15	Update line 15	Bankacılık sektörü konsolidasyonu
 16	Update line 16	Dijital para birimleri (CBDC)
+17	Update line 17	Tarım sektörü verimlilik artışı
