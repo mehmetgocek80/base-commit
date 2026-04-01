@@ -89,3 +89,4 @@
 86	Update line 86	Su arıtma ve kanalizasyon hizmetleri
 87	Update line 87	Atık yönetimi ve geri dönüşüm endüstrisi
 88	Update line 88	Harita ve jeoloji araştırması
+89	Update line 89	Meteoroloji ve hava tahmin servisleri
