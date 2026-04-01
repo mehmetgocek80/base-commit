@@ -26,3 +26,4 @@
 25	Update line 25	Sosyal medya platformlarının reklam gelir modeli
 26	Update line 26	Gıda üretim maliyetleri ve tarım girdilerinin fiyatı
 27	Update line 27	Dolar kuru ve döviz rezervleri yönetimi
+28	Update line 28	Ulusal borç seviyeleri ve bütçe açıkları
