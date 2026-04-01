@@ -35,3 +35,4 @@
 34	Update line 34	Eğitim sektörü ve insan sermayesi yatırımları
 35	Update line 35	Medya ve yayın hizmetleri endüstrisi
 36	Update line 36	Bağlantılı cihazlar (IoT) ve veri ekonomisi
+37	Update line 37	Savunma sektörü ve askeri harcamalar
