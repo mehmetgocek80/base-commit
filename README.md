@@ -11,3 +11,4 @@
 10	Update line 10	Küresel ticaret savaşları
 11	Update line 11	Teknoloji şirketlerinin değerlemesi
 12	Update line 12	Yapay zeka ekonomisinin rise'ı
+13	Update line 13	Yeşil enerji yatırımları
