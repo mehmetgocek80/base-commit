@@ -95,3 +95,4 @@
 92	Update line 92	Kimya sanayii ve plastik üretimi
 93	Update line 93	Cam ve seramik üretim teknolojileri
 94	Update line 94	Çimento ve yapı malzemeleri sektörü
+95	Update line 95	Demir çelik endüstrisi ve metaller
