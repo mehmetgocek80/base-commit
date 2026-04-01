@@ -72,3 +72,4 @@
 70	Update line 70	Kumaş ithalatı ve ihracata tarife etkileri
 71	Süt ürünleri üretimi ve pazarlaması
 72	Update line 72	Kırmızı et üretim sektörü
+73	Update line 73	Beyaz et (tavuk) endüstrisi
