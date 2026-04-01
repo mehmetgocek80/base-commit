@@ -30,3 +30,4 @@
 29	Update line 29	Yatırım fonu ve ETF pazarının genişlemesi
 30	Update line 30	Perakende sektörü ve tüketici harcama trendleri
 31	Update line 31	İmalat sektörü ve endüstri 4.0 teknolojileri
+32	Update line 32	Sosyal güvenlik sistemleri ve emeklilik reformu
