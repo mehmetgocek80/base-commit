@@ -52,3 +52,4 @@
 50	Update line 50	Gayrimenkul geliştirme projeleri ve inşaat finansmanı
 51	Oto kiralama sektörü ve araç leasing hizmetleri
 52	Update line 52	Depolama hizmetleri ve lojistik ağları
+53	Update line 53	İtfaiyeci ve güvenlik hizmetleri talep
