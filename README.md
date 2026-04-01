@@ -61,3 +61,4 @@
 59	Update line 59	Fitness ve sağlık spor merkezi hizmetleri
 60	Update line 60	Pet care industri ve veteriner hizmetleri
 61	Güzellik ürünleri ve kozmetik pazarı
+62	Update line 62	Moda endüstrisi ve mevsimsel koleksiyon trendleri
