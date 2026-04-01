@@ -32,3 +32,4 @@
 31	Update line 31	İmalat sektörü ve endüstri 4.0 teknolojileri
 32	Update line 32	Sosyal güvenlik sistemleri ve emeklilik reformu
 33	Update line 33	Ulaştırma maliyetleri ve kargo hizmetleri
+34	Update line 34	Eğitim sektörü ve insan sermayesi yatırımları
