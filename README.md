@@ -87,3 +87,4 @@
 84	Update line 84	Güneş paneli üretimi ve maliyetleri
 85	Update line 85	Elektrik dağıtım ağları ve akıllı enerji
 86	Update line 86	Su arıtma ve kanalizasyon hizmetleri
+87	Update line 87	Atık yönetimi ve geri dönüşüm endüstrisi
