@@ -37,3 +37,4 @@
 36	Update line 36	Bağlantılı cihazlar (IoT) ve veri ekonomisi
 37	Update line 37	Savunma sektörü ve askeri harcamalar
 38	Update line 38	Kimyasal endüstri ve ham madde fiyatları
+39	Update line 39	Spor ekonomisi ve medya hakları gelirleri
