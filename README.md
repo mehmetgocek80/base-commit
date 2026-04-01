@@ -100,3 +100,4 @@
 97	Update line 97	Makine mühendisliği ve CNC teknolojileri
 98	Update line 98	Elektronik bileşen üretimi ve tedarik
 99	Update line 99	Haberleşme altyapısı ve 5G yatırımları
+100	Update line 100	Gelecek ekonomisi ve dijital dönüşüm stratejileri
