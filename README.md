@@ -48,3 +48,5 @@
 47	Update line 47	Konsültasyon hizmetleri ve iş danışmanlığı
 48	Update line 48	Hukuk hizmetleri ve muhasebe firmaları
 49	Update line 49	Sigortacılık sektörü ve sigorta primi hesaplamaları
+49	Update line 49	Sigortacılık sektörü ve sigorta primi hesaplamaları
+50	Update line 50	Gayrimenkul geliştirme projeleri ve inşaat finansmanı
